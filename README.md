@@ -1,4 +1,4 @@
-# 學生加入AWS Academy課程
+# 加入AWS Academy課程
 
 1.至信箱收信(表單填寫的Mail) 
 
